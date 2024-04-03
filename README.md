@@ -59,9 +59,9 @@ else:
     print("Error:", response.text)
 ```
 
-image_paths: Es una lista con las imágenes que queremos procesar.
-    url: Será el URL del API
-    prediction: Contendrá el JSON retornado por el API luego de la evaluación de la imagen
+- image_paths: Es una lista con las imágenes que queremos procesar.
+- url: Será el URL del API
+- prediction: Contendrá el JSON retornado por el API luego de la evaluación de la imagen
 
 ### Respuesta de la API
 
